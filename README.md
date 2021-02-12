@@ -10,7 +10,7 @@
 [Test Labels](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)
 
 ## Train, Validation & Test Split
-
+![split](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/train_valid_test%20split.png)
 ## Libraries required to run the project
 
 ````
