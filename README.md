@@ -27,9 +27,6 @@ torchvision
 torchsummary
 ````
 
-## Model Suymmary
-![PyTorch](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/model%20summary.PNG)
-
 ## Graph Visualization
 Model graphs are provided in the project "./runs" directory.
 Library required for graph visualization:
@@ -51,5 +48,6 @@ tensorboard --logdir runs
 ### Accuracy
 ![accuracy](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/accuracy%20graph.PNG)
 
-
+## Model Summary
+![PyTorch](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/model%20summary.PNG)
 
