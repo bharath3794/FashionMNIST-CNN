@@ -27,10 +27,6 @@ Fashion-MNIST is a dataset of Zalando’s article images. This consists of 60,00
 [Test Images](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz)
 [Test Labels](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)
 
-## Proposal Review:
-
-<https://review.udacity.com/#!/reviews/2722609>
-
 
 ## Libraries required to run the project
 
