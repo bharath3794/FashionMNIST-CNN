@@ -1,23 +1,5 @@
-# Overview
-Fashion-MNIST is a dataset of Zalando’s article images. This consists of 60,000 samples for training set and 10,000 samples for test set. Each sample is of 28x28 grayscale image. These samples are associated with a label from 10 classes.
-
-## Datasets and Inputs
-[Fashion-MNIST Sample Images](https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png)
-
-**Labels**
-| Label | Description |
-| --- | --- |
-| 0 | T-shirt/top |
-| 1 | Trouser |
-| 2 | Pullover |
-| 3 | Dress |
-| 4 | Coat |
-| 5 | Sandal |
-| 6 | Shirt |
-| 7 | Sneaker |
-| 8 | Bag |
-| 9 | Ankle boot |
-
+## Sample Images
+![Fashion-MNIST Sample Images](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/sample%20image.png)
 
 **Train Datasets:**
 [Train Images,](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz)
@@ -27,6 +9,7 @@ Fashion-MNIST is a dataset of Zalando’s article images. This consists of 60,00
 [Test Images,](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz)
 [Test Labels](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)
 
+## Train, Validation & Test Split
 
 ## Libraries required to run the project
 
@@ -40,7 +23,7 @@ torchsummary
 ````
 
 ## Graph Visualization
-Model graphs are provided in the project submission under "./runs" directory.
+Model graphs are provided in the project "./runs" directory.
 Library required for graph visualization:
 
 ````
