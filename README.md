@@ -42,6 +42,9 @@ tensorboard --logdir runs
 ````
 
 ## Evaluation & Graphs
+#### Legend for below Graphs
+* Orange - With out dropout and with out data augmentation
+* Blue - With dropout and data augmentation
 ### Loss
 ![loss](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/loss%20graph.PNG)
 
@@ -51,3 +54,10 @@ tensorboard --logdir runs
 ## Model Summary
 ![PyTorch](https://github.com/bharath3794/FashionMNIST-CNN/blob/main/images/model%20summary.PNG)
 
+## Best Results
+```
+epoch #19
+Train set: Loss: 0.1029, Accuracy: 57871/60032 (96.40%)
+Validation set: Average loss: 0.2254, Accuracy: 7461/8000 (93.26%)
+Test set: Average loss: 0.2089, Accuracy: 1884/2000 (94.20%)
+```
