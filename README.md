@@ -28,7 +28,7 @@ torchsummary
 ````
 
 ## Graph Visualization
-Model graphs are provided in the project "./runs" directory.
+Model graphs are provided in the project `./runs` directory.
 Library required for graph visualization:
 
 ````
