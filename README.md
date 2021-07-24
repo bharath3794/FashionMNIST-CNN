@@ -3,7 +3,7 @@ epoch #19: Average loss: 0.2089, Accuracy: 1884/2000 (94.20%)
 
 ## Dataset
 **Train Datasets:**
-[Train Images,](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz)
+[Train Images](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz)
 [Train Labels](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-labels-idx1-ubyte.gz)
 
 **Test Datasets:**
